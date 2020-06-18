@@ -1,4 +1,13 @@
 body{margin:0px;
      background:#ffe;
      padding:0;
+     text-align:center;
+}
+header{width:100%;
+      height:150px;
+      background:#dde;
+}
+h2{font-family:Arial,monospace;
+   text-shadow:1px 1px 2px #f66;
+   text-align:center;
 }
